@@ -121,7 +121,7 @@ css
 Kodu kopyala
 
 Body:
-```json
+
 {
   "email": "Congratulations! You have won a free prize."
 }
@@ -150,6 +150,7 @@ Kodu kopyala
     "Hey, are we meeting tomorrow?"
   ]
 }
+
 Modeli Yeniden Eğit
 bash
 Kodu kopyala
