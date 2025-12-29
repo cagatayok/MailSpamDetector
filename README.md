@@ -175,6 +175,13 @@ Ticari kullanım için veri seti lisanslarını kontrol ediniz.
 
 İsterseniz backend dosyasından test.py den projeyi test edebilirsiniz ya da frontend klasörünü açarak oradan da test edebilirsiniz.
 
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="f1.png" width="700">
+ 
+</p>
+
 👤 Geliştirici
 Çağatay
 Machine Learning & Full Stack Development
